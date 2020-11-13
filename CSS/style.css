@@ -129,10 +129,11 @@ header ul {
 	display: flex;
 	flex-wrap: wrap;
 	max-width: 609px;
-	margin-top: 60px;
+	margin-top: 60px;	
 }
 .service-text {
-	margin-bottom: 80px;	
+	margin-bottom: 80px;
+	margin-right: 20px;	
 }
 .service-link {
 	color: #ff2d2d;
@@ -224,7 +225,8 @@ header ul {
 	margin: 20px 0px 50px 0px;
 }
 .man {
-	background-color: #907a1fF;
+	background-color: #6FA0FA;
+	height: 350px;
 }
 .right-block {
 	display: flex;
